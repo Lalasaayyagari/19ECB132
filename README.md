@@ -2,6 +2,6 @@
 
 ##INDEX
 
-[circularlinkedlist.c](circularlinkedlist.c)
-[division pointer.c](division pointer.c)
+[circularlinkedlist.c](circularlinkedlist.c)   
+[divisionpointer.c](division pointer.c)
 
