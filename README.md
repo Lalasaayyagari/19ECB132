@@ -3,7 +3,7 @@
 ## INDEX
 
 [circularlinkedlist.c](circularlinkedlist.c)      
-[divisionpointer.c](division pointer.c)   
+[divisionpointer.c](divisionpointer.c)   
 [doublelinkedlist.c](doublelinkedlist.c)   
 [doublylinkedlist.c](doublylinkedlist.c)   
 [reverselinkedlist.c](reverselinkedlist.c)   
