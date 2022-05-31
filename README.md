@@ -10,7 +10,7 @@
 [lengthofword.c](length_of_word.c)   
 [bitwise3.c](bitwise3.c)   
 [bitwise4.c](bitwise4.c)   
-[multiplication2matrix.c](multiplication_2_marrix.c)            
+[multiplication2matrix.c](multiplication2matrix.c)            
 [sumnaturalnumbers.c](sum_natural_numbers.c)              
 [simplyfunctions.c](simplyfunctions.c)        
 [singlelinkedlist.c](singlelinkedlist.c)        
