@@ -14,3 +14,10 @@ int main()
   printf("Sum of Natural Numbers = %d", Sum);
   return 0;
 }
+
+
+
+
+ease Enter any Integer Value
+14
+Sum of Natural Numbers = 105
