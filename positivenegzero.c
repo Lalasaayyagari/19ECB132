@@ -19,3 +19,8 @@ int main()
     }
     return 0;
 }
+
+
+
+Enter any number: 10
+Number is POSITIVE
