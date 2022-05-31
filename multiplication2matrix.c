@@ -46,3 +46,19 @@ int main(void)
    return 0;
 }
 
+
+
+
+ Please insert the number of rows and columns for first matrix 
+ 2
+2
+ Insert your matrix elements : 
+ 1
+2
+3
+4
+ Please insert the number of rows and columns for second matrix
+5
+6
+ Your given matrices cannot be multiplied with each other. 
+ ~/19ECB132-8$ 7
