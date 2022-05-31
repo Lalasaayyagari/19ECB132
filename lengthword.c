@@ -22,3 +22,6 @@ int main()
 
     return 0;
 }
+
+Enter a string : 3
+3 = 1
