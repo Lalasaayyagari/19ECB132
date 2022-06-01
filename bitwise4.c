@@ -7,5 +7,7 @@ printf("~a=%d",~a);
 }
 
 
+
+*/output
 enter a value5
-~a=-6
+~a=-6*/
