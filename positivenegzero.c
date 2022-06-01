@@ -21,6 +21,6 @@ int main()
 }
 
 
-
+*/output
 Enter any number: 10
-Number is POSITIVE
+Number is POSITIVE*/
