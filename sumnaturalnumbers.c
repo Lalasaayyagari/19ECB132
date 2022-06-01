@@ -17,7 +17,7 @@ int main()
 
 
 
-
+*/output
 ease Enter any Integer Value
 14
-Sum of Natural Numbers = 105
+Sum of Natural Numbers = 105*/
