@@ -10,4 +10,7 @@ int main()
     printf("Division is: %d",div);
     return 0;
 }
-Division is: 20
+
+
+*/output
+Division is: 20*/
