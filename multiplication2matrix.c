@@ -48,7 +48,7 @@ int main(void)
 
 
 
-
+*/output
  Please insert the number of rows and columns for first matrix 
  2
 2
@@ -60,5 +60,5 @@ int main(void)
  Please insert the number of rows and columns for second matrix
 5
 6
- Your given matrices cannot be multiplied with each other. 
- ~/19ECB132-8$ 7
+ Your given matrices cannot be multiplied with each other. */
+ 
