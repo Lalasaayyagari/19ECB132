@@ -69,8 +69,8 @@ int main()
 
 
 
-
+*/output
 Given linked list
 85 15 4 20 
 Reversed Linked list 
-20 4 15 85 
+20 4 15 85 */
