@@ -67,7 +67,7 @@ void display() {
 
 
 
-
+*/output
 
 Singly(Single) Linked List Example - Using Functions
 
@@ -79,4 +79,4 @@ Enter Element for Insert Linked List (-1 to Exit ) :
 
 Display Linked List : 
 # 34 # 
-No Of Items In Linked List : 1
+No Of Items In Linked List : 1*/
