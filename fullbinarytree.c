@@ -48,3 +48,12 @@ int main() {
   else
     printf("The tree is not a full binary tree\n");
 }
+
+
+
+
+
+/*
+output
+The tree is a full binary tree
+/*
