@@ -243,7 +243,8 @@ void search()
 }  
 
 
-*/output
+*/
+output
 *********Main Menu*********
 
 Choose one option from the following list ...
@@ -280,4 +281,5 @@ Choose one option from the following list ...
 7.Exit
 
 Enter your choice?
-7*/
+7
+*/
