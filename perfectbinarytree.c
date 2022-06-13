@@ -67,3 +67,12 @@ int main() {
   else
     printf("The tree is not a perfect binary tree\n");
 }
+
+
+
+
+
+/*
+output
+The tree is not a perfect binary tree
+/*
