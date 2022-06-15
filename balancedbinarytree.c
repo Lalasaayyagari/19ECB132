@@ -58,3 +58,10 @@ int main() {
   else
     printf("The tree is not balanced");
 }
+
+
+
+/*
+output
+The tree is balanced
+/*
