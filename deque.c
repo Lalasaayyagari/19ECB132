@@ -164,3 +164,21 @@ int count(int *arr) {
   }
   return c;
 }
+
+
+
+/*
+output
+Elements in a deque: 
+ front:    8  5  12  5  11  6  0  0  0  0  :rear
+removed item: 8
+Elements in a deque after deletion: 
+ front:    0  5  12  5  11  6  0  0  0  0  :rear
+Elements in a deque after addition: 
+ front:    0  5  12  5  11  6  16  7  0  0  :rear
+removed item: 7
+Elements in a deque after deletion: 
+ front:    0  5  12  5  11  6  16  0  0  0  :rear
+Total number of elements in deque: 6
+  /*
+ 
