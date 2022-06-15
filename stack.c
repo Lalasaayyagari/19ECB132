@@ -85,3 +85,15 @@ int main() {
   printf("\nAfter popping out\n");
   printStack(s);
 }
+
+
+
+
+/*
+output
+Stack: 1 2 3 4 
+Item popped= 4
+
+After popping out
+Stack: 1 2 3 
+/*
