@@ -69,3 +69,21 @@ void display() {
   }
   printf("\n");
 }
+
+
+/*
+output
+Queue is Empty!!
+Inserted -> 1
+Inserted -> 2
+Inserted -> 3
+Inserted -> 4
+Inserted -> 5
+Queue is Full!!
+Queue elements are:
+1  2  3  4  5  
+
+Deleted : 1
+Queue elements are:
+2  3  4  5  
+/*
